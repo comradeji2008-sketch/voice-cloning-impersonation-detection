@@ -1,0 +1,5 @@
+cat > requirements.txt << 'EOF'
+numpy
+scipy
+matplotlib
+EOF
